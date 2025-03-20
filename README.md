@@ -1,11 +1,3 @@
-## Hello world! 👋
-
-This is my first project. I’m Tim, currently an out-of-work Product Manager. Gotta love 2023. I’ve worked at companies like Google, Meta and Tripadvisor (as a PM), but have always enjoyed hobbyist coding.
-
-For some weird reason, I’ve been interested in a personal self-scheduling solution (like Calendly, Cal.com), but one that's simple, free, and without branding or bloat.
-
-**So, I made my own Calendly alternative, and wanted to share with the world and walk through it.**
-
 ![Walkthrough](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oqdsguqjfg3ky4o8zjb0.gif)
 
 The current solution is intentionally lightweight and opinionated, but hopefully flexible enough should you want to extend it.
